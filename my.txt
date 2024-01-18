@@ -1,0 +1,17 @@
+[Adblock Plus 1.0]
+||livewebbs2.msstatic.com/huya_*_content.gif
+||livewebbs2.msstatic.com/huya_*_content.png
+huya.com##.helperbar--cpOuG7OGer2wWrNst9OwG
+huya.com##.Ad--1M4tksnOmUetminmFTLCfE
+douyu.com###js-right-nav
+douyu.com###js-room-activity
+iqiyi.com##.ad-ef
+iqiyi.com##.qy-scroll-anchor
+v.qq.com##.game_pendant
+v.qq.com##.x_fixed_tool
+youku.com##.newyoukufixedbar_fixed_bar
+youku.com##.sub-slides-wrap .swiper-wrapper .swiper-slide:nth-child(2)
+mgtv.com##.ad
+mgtv.com##.txt
+mgtv.com##.feedback-list
+outlook.live.com##.GssDD
