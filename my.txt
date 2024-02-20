@@ -10,8 +10,8 @@ iqiyi.com##.qy-scroll-anchor
 v.qq.com##.game_pendant
 v.qq.com##.x_fixed_tool
 youku.com##.newyoukufixedbar_fixed_bar
-youku.com##.swiper-wrapper .swiper-slide:nth-child(2)
-youku.com##.swiper-wrapper .swiper-slide:nth-child(4)
+youku.com##.sub-slides-wrap .swiper-wrapper .swiper-slide:nth-child(2)
+youku.com##.sub-slides-wrap .swiper-wrapper .swiper-slide:nth-child(4)
 mgtv.com##.ad
 mgtv.com##.txt
 mgtv.com##.feedback-list
