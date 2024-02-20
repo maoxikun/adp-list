@@ -16,3 +16,5 @@ mgtv.com##.ad
 mgtv.com##.txt
 mgtv.com##.feedback-list
 outlook.live.com##.GssDD
+@@*.chat.bilibili.com/sub
+*.chat.bilibili.com
