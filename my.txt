@@ -2,6 +2,8 @@
 ||livewebbs2.msstatic.com/huya_*_content.gif
 ||livewebbs2.msstatic.com/huya_*_content.png
 ||zt.huya.com
+huya.com##.lockBtn
+huya.com##.clearBtn
 huya.com##.helperbar--cpOuG7OGer2wWrNst9OwG
 huya.com##.Ad--1M4tksnOmUetminmFTLCfE
 douyu.com###js-right-nav
