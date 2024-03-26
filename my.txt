@@ -2,6 +2,7 @@
 ||livewebbs2.msstatic.com/huya_*_content.gif
 ||livewebbs2.msstatic.com/huya_*_content.png
 ||zt.huya.com
+||midext2.cdn.huya.com/ext-web-mid/ext-web-sub-frame
 huya.com##.lockBtn
 huya.com##.clearBtn
 huya.com##.helperbar--cpOuG7OGer2wWrNst9OwG
