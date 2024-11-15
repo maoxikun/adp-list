@@ -7,6 +7,8 @@ huya.com##.lockBtn
 huya.com##.clearBtn
 huya.com##.helperbar--cpOuG7OGer2wWrNst9OwG
 huya.com##.Ad--1M4tksnOmUetminmFTLCfE
+huya.com##.liveList-header-r
+huya.com###J_liveListHeader
 douyu.com###js-right-nav
 douyu.com###js-room-activity
 iqiyi.com##.ad-ef
