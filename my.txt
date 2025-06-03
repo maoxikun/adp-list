@@ -16,6 +16,8 @@ iqiyi.com##.qy-scroll-anchor
 v.qq.com##.game_pendant
 v.qq.com##.x_fixed_tool
 v.qq.com###iwan-gamependant-page
+v.qq.com##.whole-content
+v.qq.com##.folded-content
 youku.com##.newyoukufixedbar_fixed_bar
 youku.com##.sub-slides-wrap .swiper-wrapper .swiper-slide:nth-child(2)
 youku.com##.sub-slides-wrap .swiper-wrapper .swiper-slide:nth-child(4)
